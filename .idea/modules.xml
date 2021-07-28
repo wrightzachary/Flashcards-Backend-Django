@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/flashcardsDjango.iml" filepath="$PROJECT_DIR$/.idea/flashcardsDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Flashcards-Django.iml" filepath="$PROJECT_DIR$/.idea/Flashcards-Django.iml" />
     </modules>
   </component>
 </project>
